@@ -16,7 +16,7 @@ The goal of this repository is to:
 
 ## 📚 Topics Covered
 
-### Python Basics
+### Python Fundamentals
 
 * Variables & Data Types
 * Input & Output
@@ -24,7 +24,6 @@ The goal of this repository is to:
 * Type Casting
 * Conditional Statements
 * Loops
-* Pattern Printing
 
 ### Functions
 
