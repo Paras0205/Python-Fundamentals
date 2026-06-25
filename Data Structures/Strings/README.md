@@ -100,6 +100,3 @@ After completing this module, I learned:
 ---
 
 **Author:** Paras
-
-**Module:** Strings
-
