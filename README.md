@@ -35,7 +35,6 @@ The goal of this repository is to:
 ### Data Structures
 
 * Lists
-* Tuples
 * Sets
 * Dictionaries
 * String Manipulation
