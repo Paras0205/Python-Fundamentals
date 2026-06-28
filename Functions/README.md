@@ -100,6 +100,6 @@ After completing this module, I learned:
 * Different types of functions in Python.
 * How functions help eliminate repeated code and improve program organization.
 
-```
+---
 
-**Author:** Paras
+Author: Paras
